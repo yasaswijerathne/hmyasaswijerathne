@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmyasaswijerathne)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmyasaswijerathne@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/hmyasaswijerathne?style=for-the-badge&color=238636)](https://github.com/hmyasaswijerathne)
+
 
 </div>
 
