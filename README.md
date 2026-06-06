@@ -98,17 +98,6 @@ Full-stack Android application integrating analytics and automation for hotel op
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Yasas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmyasaswijerathne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmyasaswijerathne&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## Certifications
 
